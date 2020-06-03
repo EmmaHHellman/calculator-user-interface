@@ -1,17 +1,17 @@
-# _calculator_
+# _calculator-user-interface_
 
-#### _This program will create a basic calculator which will do simple arithmetic based on user input 06/01/2020_
+#### _This program will create a basic calculator which will do simple addition based on user input 06/03/2020_
 
-#### By _**David Cole, Matt McFarland, Allison Sadin**_
+#### By _**David Cole, Emma Hellman**_
 
 ## Description
 
-_This project has been designed using HTML, and JavaScript. It serves as a basic calculator for the user to enter input for addition/subtraction/multiplication/division._
+_This project has been designed using HTML, JavaScript, Bootstrap, and jQuery. It serves as a basic calculator for the user to enter input for addition and reflects the separation between business logic and user interface logic within our scripts.js file._
 
 ## Setup/Installation Requirements
 
-* _In your web browser, navigate to [https://github.com/dcole505/calculator/tree/master/calculator](https://github.com/dcole505/calculator.git)_
-* _In terminal, type '$ git clone https://github.com/dcole505/calculator.git' To clone the project from GitHub onto your local machine_
+* _In your web browser, navigate to [https://github.com/dcole505/calculator-user-interface](https://github.com/dcole505/calculator-user-interface.git)_
+* _In terminal, type '$ git clone https://github.com/dcole505/calculator-user-interface.git' To clone the project from GitHub onto your local machine_
 * _Navigate to the file folder that contains the GitHub repository you've cloned._
 * _Right click on the .HTML file and open it in your web browser to view_
 * _or_
@@ -24,17 +24,17 @@ _This program does not include error checking for incorrect user input._
 
 ## Support and contact details
 
-_For bugs, or any other issues, please contact us: David Cole - davidtcole@yahoo.com_, Matt McFarland - mrmcfarland@gmail.com, Allison Sadin - aesadin@gmail.com
+_For bugs, or any other issues, please contact us: David Cole - davidtcole@yahoo.com_, Emma Hellman - ehh801@icloud.com
 
 ## Technologies Used
 
-_HTML, JavaScript, Github_
+_HTML, JavaScript, jQuery, Bootstrap, Github_
 
 ### License
 
 *MIT License
 
-Copyright (c) [2020] [David Cole, Matt McFarland, Allison Sadin]
+Copyright (c) [2020] [David Cole, Emma Hellman]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (my-portfolio), to deal
